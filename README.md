@@ -79,4 +79,12 @@
 15) Citizen age <10 and >70 not eligible to get vaccination 
 
 
+**After getting inputs and validated using python, load datas in postgres and connect with Metabase to Analyse**
+![Screenshot (1438)](https://user-images.githubusercontent.com/94047237/142053853-e4e3ec18-c2bf-4ddd-8c3e-7d344affcba9.png)
+![Screenshot (1439)](https://user-images.githubusercontent.com/94047237/142053862-318d3552-73a6-4d3d-8013-a297020023e7.png)
+![Screenshot (1440)](https://user-images.githubusercontent.com/94047237/142053866-1413170d-548c-4888-996d-3489c9231d18.png)
+![Screenshot (1443)](https://user-images.githubusercontent.com/94047237/142053867-e48ca90c-7a38-4456-8f1a-075c944245c0.png)
+![Screenshot (1434)](https://user-images.githubusercontent.com/94047237/142053869-628c5a61-953e-4b36-9153-3ae602f1532e.png)
+![Screenshot (1436)](https://user-images.githubusercontent.com/94047237/142053872-a43de0a7-6c11-4fe0-a894-66f82af61522.png)
+![Screenshot (1437)](https://user-images.githubusercontent.com/94047237/142053874-1885e2fa-ce22-4488-a611-1dc58146e7c1.png)
 

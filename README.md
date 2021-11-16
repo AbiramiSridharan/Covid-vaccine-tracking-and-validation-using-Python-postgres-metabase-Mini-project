@@ -1,6 +1,7 @@
 **Postgres DB design**
-** Aim of this mini project is to track, validate and Analyse the vaccine details from phrama companies to hospitals** 
-**covid vaccine tracking lookup:**
+**Aim of this mini project is to track, validate and Analyse the vaccine details from phrama companies to hospitals** 
+
+**Covid vaccine tracking lookup**
 - company name,company code
 - cold storage id
 
@@ -76,3 +77,6 @@
 13) Null check for all mandatoryfields
 14) Truck delivery-Query validation(GH-ID matches with Destination)with GHmaster
 15) Citizen age <10 and >70 not eligible to get vaccination 
+
+
+
